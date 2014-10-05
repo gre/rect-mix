@@ -1,0 +1,25 @@
+{
+  "name": "rect-mix",
+  "version": "0.0.0",
+  "description": "Interpolate 2 rectangles",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/rect-mix"
+  },
+  "keywords": [
+    "rect",
+    "rectangle",
+    "interpolate",
+    "interpolation",
+    "mix",
+    "bound",
+    "2d"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/rect-mix/issues"
+  },
+  "homepage": "https://github.com/gre/rect-mix"
+}
